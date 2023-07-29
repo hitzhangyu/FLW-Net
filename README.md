@@ -21,4 +21,7 @@ new checkpoint in training：Interesting color change！！
 
 <<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==<<==
 ![image](https://github.com/hitzhangyu/FLW-Net/assets/30136020/a4614d6f-52dc-44ac-a9a0-5426111d12f8)
+![999_3](https://github.com/hitzhangyu/FLW-Net/assets/30136020/cd9ce204-768d-4a08-9df4-2baafa72fb75)
+![1099_5](https://github.com/hitzhangyu/FLW-Net/assets/30136020/b9d40da9-ff48-47e1-a6a4-98d4f7641d75)
+
 
