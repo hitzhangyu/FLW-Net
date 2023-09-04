@@ -1,3 +1,4 @@
+Tested in Windows; In the Linux environment, it may be necessary to modify the image loading method to avoid the mismatch of input and reference（Thx [2665207323](https://github.com/hitzhangyu/FLW-Net/issues/10) ）.
 
 torch = 1.13.0
 
